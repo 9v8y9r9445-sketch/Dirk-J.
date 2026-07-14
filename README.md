@@ -1,55 +1,86 @@
-# Hi, I'm Dirk 👋
+<div align="center">
 
-## IT Specialist | Infrastructure, Systems & Cybersecurity
+# Dirk Juretko
 
-I am an experienced IT specialist based in Germany, focused on building reliable, secure and maintainable IT environments. My background combines hands-on systems administration, network engineering, endpoint management, cybersecurity and technical project work.
+**IT Specialist · Infrastructure & Systems Administration**
 
-I enjoy turning complex technical requirements into practical, well-documented solutions — whether that means modernising an infrastructure, automating repetitive work or troubleshooting the one issue that refuses to be obvious.
+North Rhine-Westphalia, Germany
 
-## 🔧 Core Skills
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Dirk--J--Profile-181717?logo=github&logoColor=white)](https://github.com/Dirk-J-Profile)
+[![Email](https://img.shields.io/badge/Email-office%40dirk89.de-0A66C2?logo=minutemailer&logoColor=white)](mailto:office@dirk89.de)
 
-- **Systems Administration:** Windows 10/11, Windows Server, Active Directory, Group Policy, Hyper-V
-- **Cloud & Modern Workplace:** Microsoft 365, Microsoft Azure, Microsoft Intune
-- **Networking:** LAN, WAN, WLAN, VLANs, TCP/IP, DNS, DHCP, VPN, routers, switches and firewalls
-- **Security:** Security standards, risk analysis, implementation of protective measures and secure operations
-- **Backup & Data:** Veeam, MySQL, SQL
-- **Development:** Python (Beginner)
-- **Hardware & Support:** PC/server hardware, fault analysis, troubleshooting and technical support
+</div>
 
-## 💼 Professional Background
+## Professional Summary
 
-- **IT Specialist / Senior Assistant (IT)** — *Infineon Technologies AG*  
-  2011–2025
-- **IT & Test Field Technician** — *START Zeitarbeit NRW / Infineon Technologies AG*  
-  2008–2011
-- **Information and Telecommunications Systems Electronics Technician (Apprenticeship)** — *Deutsche Telekom AG*  
-  2005–2008
+IT Specialist with professional experience in enterprise IT infrastructure, Windows systems administration, and technical support. My background combines hands-on troubleshooting with structured work across server, network, workplace, and security environments.
 
-## 🎓 Qualifications
+I am particularly interested in reliable, secure, and maintainable IT operations—from Windows Server and Active Directory administration to virtualization, Microsoft cloud services, network technologies, backup, and risk-aware security controls. I am currently expanding my software and automation skills with Python.
 
-- Certified **Industrial Master – Electrical Engineering** (IHK, DQR Level 6)
+## Core Competencies
+
+<table>
+  <tr>
+    <td><strong>Systems & Identity</strong></td>
+    <td>Windows administration · Windows Server 2016–2025 · Active Directory · Group Policy · Hyper-V</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Workplace</strong></td>
+    <td>Microsoft 365 · Azure · Intune</td>
+  </tr>
+  <tr>
+    <td><strong>Networks</strong></td>
+    <td>LAN/WAN/WLAN/VLAN · TCP/IP · DNS · DHCP · VPN · Routers · Switches · Firewalls</td>
+  </tr>
+  <tr>
+    <td><strong>Security & Continuity</strong></td>
+    <td>Cybersecurity · Risk analysis · Security controls · Veeam</td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Hardware</strong></td>
+    <td>MySQL/SQL · Hardware troubleshooting</td>
+  </tr>
+  <tr>
+    <td><strong>Development</strong></td>
+    <td>Python — beginner level</td>
+  </tr>
+</table>
+
+## Professional Experience
+
+### Infineon Technologies AG · IT Specialist / Senior Assistant IT
+
+**2011–2025**
+
+Enterprise IT experience supporting infrastructure, systems, and users in a technically demanding environment.
+
+### START Zeitarbeit NRW / Infineon · IT & Test Field Technician
+
+**2008–2011**
+
+Technical work in IT and test-field operations, building a strong foundation in practical troubleshooting and industrial technology environments.
+
+### Deutsche Telekom · Apprenticeship
+
+**2005–2008**
+
+Vocational training as an Information and Telecommunications Systems Electronics Technician.
+
+## Qualifications
+
+- **Certified Industrial Master in Electrical Engineering (IHK)** — DQR Level 6
 - **AEVO Trainer Certificate**
-- Vocational qualification as an **Information and Telecommunications Systems Electronics Technician**
+- **Vocational qualification as Information and Telecommunications Systems Electronics Technician**
 
-## 🤝 How I Work
+## Current Focus
 
-- Structured, reliable and solution-oriented
-- Calm under pressure and thorough in root-cause analysis
-- Comfortable collaborating with technical and non-technical stakeholders
-- Experienced in projects, workshops and technical training
-- Curious by default — continuous learning is part of the job
+- Building practical Python skills for automation and tooling
+- Improving repeatability and efficiency in IT operations
+- Exploring modern Windows, Microsoft cloud, endpoint, virtualization, and security workflows
+- Developing a focused GitHub presence around technology and continuous learning
 
-## 📌 What You'll Find Here
+## Contact
 
-This profile is a home for practical projects around:
+For professional enquiries, please contact me at [office@dirk89.de](mailto:office@dirk89.de).
 
-- IT infrastructure and automation
-- PowerShell, scripting and tooling
-- Windows Server, Microsoft 365 and Intune
-- Networking and security
-- Python learning projects and useful utilities
-- Documentation, homelab experiments and repeatable workflows
-
-## 📫 Connect
-
-office@dirk89.de
+You can also find me on [GitHub](https://github.com/Dirk-J-Profile).
